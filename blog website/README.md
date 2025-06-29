@@ -18,8 +18,4 @@ A full-featured blog application built with **Django** and styled using **Bootst
 - Database: SQLite (default with Django)
 - Language: Python 3
 
-## 📷 Screenshots
-
-> *(Add screenshots here if available, e.g. post list page, post detail with image, form page, etc.)*
-
 ## 📁 Project Setup
