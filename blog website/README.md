@@ -19,3 +19,19 @@ A full-featured blog application built with **Django** and styled using **Bootst
 - Language: Python 3
 
 ## 📁 Project Setup
+Create a virtual environment & activate it ->
+python -m venv venv ->
+source venv/bin/activate (or)  # Windows: venv\Scripts\activate
+
+Install dependencies:->
+pip install -r requirements.txt
+
+Apply migrations:->
+python manage.py makemigrations ->
+python manage.py migrate
+
+Run the development server
+python manage.py runserver
+
+Open in your browser
+http://127.0.0.1:8000/
