@@ -1,20 +1,27 @@
-# 👋 Hi there, I'm a Developer!
+# 📝 Django Blog Website
 
-Welcome to my GitHub profile! I'm passionate about building web projects, exploring full stack development, and growing my skills every day.
+A full-featured blog application built with **Django** and styled using **Bootstrap 5**. This app allows users to **create, read, update, and delete** blog posts, with support for **image uploads**, clean responsive design, and easy navigation.
+
+## 🚀 Features
+
+- Responsive UI with Bootstrap 5
+- Create, update, delete blog posts
+- Upload and display images with each post
+- Full CRUD functionality
+- User-friendly form design
+- Media file support
 
 ## 🛠 Tech Stack
-- 💻 Frontend: HTML, CSS, JavaScript
-- 🖥 Backend (Basics): C, Python
-- 🔧 Tools: Git, GitHub, VS Code
-- 📚 Learning: React, Cybersecurity Fundamentals
 
-## 🚀 Goals
-- Build real-world web applications
-- Contribute to open-source projects
-- Strengthen my backend and security knowledge
+- Backend: Django
+- Frontend: HTML5, CSS3, Bootstrap 5
+- Database: SQLite (default with Django)
+- Language: Python 3
 
-## 📂 Projects
-Check out my repositories to see the projects I'm working on — from static web pages to beginner full stack applications.
+## 📷 Screenshots
 
-## 📬 Let's Connect
-Feel free to explore, fork, or contribute to any of my projects. Feedback and collaboration are always welcome!
+> *(Add screenshots here if available, e.g. post list page, post detail with image, form page, etc.)*
+
+## 📁 Project Setup
+
+1. **Clone the repository**
